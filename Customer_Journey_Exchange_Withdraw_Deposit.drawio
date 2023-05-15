@@ -1,0 +1,109 @@
+<mxfile host="Electron" modified="2023-05-15T13:33:41.118Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.1.2 Chrome/106.0.5249.199 Electron/21.4.3 Safari/537.36" etag="jrJfEZ2w2rqJBluirTWm" version="21.1.2" type="device">
+  <diagram id="JF3hVi-OrvNmajER3oMJ" name="Page-1">
+    <mxGraphModel dx="1793" dy="1584" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1200" pageHeight="1920" background="#001933" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uWWnmXJM65ecss1HhaHu-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FFFFFF;" edge="1" parent="1" source="Q6lk0gb_kaZf5LLeZKWh-1" target="uWWnmXJM65ecss1HhaHu-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Q6lk0gb_kaZf5LLeZKWh-1" value="User signs up to exchange, creating a secure access path to the exchange user interface." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1139" y="365" width="283" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="uWWnmXJM65ecss1HhaHu-4" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#FFFFFF;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="uWWnmXJM65ecss1HhaHu-1" target="uWWnmXJM65ecss1HhaHu-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uWWnmXJM65ecss1HhaHu-1" value="User goes through KYC / AML data capture" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1139" y="549" width="283" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="uWWnmXJM65ecss1HhaHu-9" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#FFFFFF;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="uWWnmXJM65ecss1HhaHu-3" target="uWWnmXJM65ecss1HhaHu-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uWWnmXJM65ecss1HhaHu-3" value="User puts fiat onto exchange via bank, then&lt;br&gt;purchases BSV in exchange." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1139" y="750" width="283" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="uWWnmXJM65ecss1HhaHu-11" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#FFFFFF;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="uWWnmXJM65ecss1HhaHu-8" target="uWWnmXJM65ecss1HhaHu-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uWWnmXJM65ecss1HhaHu-27" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#FFFFFF;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;dashed=1;dashPattern=1 2;" edge="1" parent="1" source="uWWnmXJM65ecss1HhaHu-8" target="uWWnmXJM65ecss1HhaHu-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uWWnmXJM65ecss1HhaHu-8" value="User opens their own wallet (mobile), creates a counterparty in their wallet by adding withdrawls@exchange.com to their contacts." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1139" y="925" width="283" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="uWWnmXJM65ecss1HhaHu-25" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=#FFFFFF;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="uWWnmXJM65ecss1HhaHu-10" target="uWWnmXJM65ecss1HhaHu-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uWWnmXJM65ecss1HhaHu-29" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 2;labelBackgroundColor=default;strokeColor=#FFFFFF;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="uWWnmXJM65ecss1HhaHu-10" target="uWWnmXJM65ecss1HhaHu-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uWWnmXJM65ecss1HhaHu-10" value="Establish Mutual End to end authentication between wallet and exchange" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1139" y="1104" width="283" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="uWWnmXJM65ecss1HhaHu-20" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=#FFFFFF;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="uWWnmXJM65ecss1HhaHu-12" target="uWWnmXJM65ecss1HhaHu-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uWWnmXJM65ecss1HhaHu-31" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 2;labelBackgroundColor=default;strokeColor=#FFFFFF;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="uWWnmXJM65ecss1HhaHu-12" target="uWWnmXJM65ecss1HhaHu-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uWWnmXJM65ecss1HhaHu-12" value="On exchange website the user creates a withdrawal request&amp;nbsp;for their whole account balance to be sent to their pre-authorized external wallet." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1139" y="1287" width="283" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="uWWnmXJM65ecss1HhaHu-23" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=#FFFFFF;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="uWWnmXJM65ecss1HhaHu-16" target="uWWnmXJM65ecss1HhaHu-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uWWnmXJM65ecss1HhaHu-33" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 2;labelBackgroundColor=default;strokeColor=#FFFFFF;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="uWWnmXJM65ecss1HhaHu-16" target="uWWnmXJM65ecss1HhaHu-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uWWnmXJM65ecss1HhaHu-36" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;dashed=1;dashPattern=1 2;labelBackgroundColor=default;strokeColor=#FFFFFF;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="uWWnmXJM65ecss1HhaHu-16" target="uWWnmXJM65ecss1HhaHu-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uWWnmXJM65ecss1HhaHu-38" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;dashed=1;dashPattern=1 2;labelBackgroundColor=default;strokeColor=#FFFFFF;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="uWWnmXJM65ecss1HhaHu-16" target="uWWnmXJM65ecss1HhaHu-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uWWnmXJM65ecss1HhaHu-16" value="User receives notification from their local wallet that a payment request is inbound. They check the details and authorize the transfer." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1139" y="1457" width="283" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="uWWnmXJM65ecss1HhaHu-24" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=default;strokeColor=#FFFFFF;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="uWWnmXJM65ecss1HhaHu-21" target="uWWnmXJM65ecss1HhaHu-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uWWnmXJM65ecss1HhaHu-40" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 2;labelBackgroundColor=default;strokeColor=#FFFFFF;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="uWWnmXJM65ecss1HhaHu-21" target="uWWnmXJM65ecss1HhaHu-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uWWnmXJM65ecss1HhaHu-21" value="At this point the transaction is broadcast by the user&#39;s wallet and the confirmation / status is returned to the exchange wallet.&lt;br&gt;&lt;br&gt;User wallet balance goes up." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1139" y="1618" width="283" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="uWWnmXJM65ecss1HhaHu-42" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=1 2;labelBackgroundColor=default;strokeColor=#FFFFFF;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="1" source="uWWnmXJM65ecss1HhaHu-22" target="uWWnmXJM65ecss1HhaHu-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uWWnmXJM65ecss1HhaHu-22" value="Exchange wallet balance goes down." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1139" y="1806" width="283" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="uWWnmXJM65ecss1HhaHu-26" value="Wallet Contact Management" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1502" y="925" width="283" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="uWWnmXJM65ecss1HhaHu-28" value="Public Key Infrastructure&lt;br&gt;PKI&lt;br&gt;&lt;br&gt;KYC / AML Travel Rule Compliant&lt;br&gt;Merklized Identity Protocol" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1502" y="1104" width="283" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="uWWnmXJM65ecss1HhaHu-30" value="Solicited Payment Instantiation &lt;br&gt;with a pre-authorized contact" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1502" y="1287" width="283" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="uWWnmXJM65ecss1HhaHu-32" value="Display inbound payment request for review" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1526" y="1431" width="156" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="uWWnmXJM65ecss1HhaHu-34" value="Allow User to approve or reject inbound payment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1537" y="1495" width="159" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="uWWnmXJM65ecss1HhaHu-35" value="Display OTP to verify origin" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1512" y="1561" width="184" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="uWWnmXJM65ecss1HhaHu-39" value="User wallet to Broadcast Tx&lt;br&gt;Give status to exchange wallet&lt;br&gt;Update own utxo set (balance)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1502" y="1651" width="275" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="uWWnmXJM65ecss1HhaHu-41" value="Exchange wallet update &lt;br&gt;own utxo set (balance)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1502" y="1806" width="283" height="121" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
